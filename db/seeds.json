@@ -1,0 +1,98 @@
+[   
+{
+    "Title": "Vegetable Sandwich",
+    "Photo": "https://images.unsplash.com/photo-1534352211968-8d25dbe0e951?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1570&q=80",
+    "Source": "Online",
+    "Category": "Lunch",
+    "Ingredients": "Bread, vegetables, avocado, cheese",
+    "Directions": "Assemble"
+    }, 
+    {
+    "Title": "Acai Bowl",
+    "Photo": "https://images.unsplash.com/photo-1557568951-a691f75c810f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3450&q=80",
+    "Source": "Online",
+    "Category": "Breakfast",
+    "Ingredients": "Frozen fruit, Acai packet, coconut, banana, granola, nuts",
+    "Directions": "Assemble"
+    },
+    {
+        "Title": "Fig Charcuterie",
+        "Photo": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80",
+        "Source": "Online",
+        "Category": "Appetizer",
+        "Ingredients": "Figs, eggs, grapes, nuts, cheese, cured meats",
+        "Directions": "Assemble"
+    },
+    {
+        "Title": "Fruit and Yogurt Bowl",
+        "Photo": "https://images.unsplash.com/photo-1501959915551-4e8d30928317?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80",
+        "Source": "Online",
+        "Category": "Breakfast",
+        "Ingredients": "Fruit, yogurt",
+        "Directions": "Combine ingredients."
+    },
+    {
+        "Title": "Millennial Toast",
+        "Photo": "https://images.unsplash.com/photo-1521986329282-0436c1f1e212?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3455&q=80",
+        "Source": "Online",
+        "Category": "Breakfast",
+        "Ingredients": "Toast, avocados, vegetables, herbs",
+        "Directions": "Assemble"
+    },
+    {
+        "Title": "Poached Egg and Veggie Bowl",
+        "Photo": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3270&q=80",
+        "Source": "Online",
+        "Category": "Entree",
+        "Ingredients": "Vegetables, egg",
+        "Directions": "Poach egg, cook vegetables, serve with avocado."
+    },
+    {
+        "Title": "Grain Bowl",
+        "Photo": "https://images.unsplash.com/photo-1542986130-d0c46350cf30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3450&q=80",
+        "Source": "Online",
+        "Category": "Entree",
+        "Ingredients": "Brown rice, vegetables, sauce, avocado",
+        "Directions": "Assemble"
+    },
+    {
+        "Title": "Taco Bar",
+        "Photo": "https://images.unsplash.com/photo-1560713781-d00f6c18f388?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3073&q=80",
+        "Source": "Online",
+        "Category": "Entree",
+        "Ingredients": "Tortillas, protein, vegetables, salsa, guacamole",
+        "Directions": "Cook everything then put ingredients in pretty bowls."
+    },
+    {
+        "Title": "Buttermilk Pancakes",
+        "Photo": "https://res.cloudinary.com/hksqkdlah/image/upload/v1481138052/24330_sfs-buttermilk-pancakes-25.jpg",
+        "Source": "New York Times Cookbook",
+        "Category": "Breakfast",
+        "Ingredients": "All-Purpose Flour: 2 cups, Baking Soda: 1 teaspoon, Salt: 1 teaspoon, Buttermilk: 2 cups, Eggs: 2 Butter: 4 tablespoons",
+        "Directions": "Preheat a griddle or skillet on medium temperature, add butter or oil if necessary. Sift together the flour, salt, and baking soda. Combine the buttermilk, melted butter, and slightly beaten eggs. Pour liquid ingredients into dry and stir only enough to combine. Drop batter by spoonfuls onto preheated pan. When bubbles begin to break on top of cakes, turn and bake on the other side."
+    },
+    {
+        "Title": "Vegetarian Chili",
+        "Photo": "https://pinchofyum.com/wp-content/uploads/Sunday-Chili-with-Avocado.jpg",
+        "Source": "Isa Does It Cookbook",
+        "Category": "Entree",
+        "Ingredients": "Olive oil: 1 tablespoon, Yellow onion: 1 diced, Bell pepper: 1 diced, Salt: 1.5 teaspoons, Garlic: 6 cloves minced, Oregano: 1 tablespoon, Cumin: 2 teaspoons, Black pepper: several pinches, Ground cloves: one pinch, Water: 4 cups, Brown lentils: 1 cup, Crushed canned tomatoes: 28 ounces, Canned kidney beans: 15 ounces, Canned black beans: 15 ounces, Lime juice: 2 tablespoons, Maple syrup: 1 tablespoon",
+        "Directions": "Preheat a dutch oven or other large pot over medium high heat, add olive oil. Sautee the onion and bell pepper with big pinch of salt until onion is translucent, then add garlic, then spices. Add water and scrape bottom of pan. Add lentils, bring to boil for 20 minutes. Add canned tomatoes and beans, cover, turn down to a simmer for 30 minutes. Add lime juice and maple syrup. Let sit 10 minutes before serving."
+    },
+    {
+        "Title": "Zucchini Chocolate Cake",
+        "Photo": "https://ifoodreal.com/wp-content/uploads/2017/07/healthy-zucchini-brownies-2.jpg",
+        "Source": "Tillamook Cookbook",
+        "Category": "Dessert",
+        "Ingredients": "Flour: 2 cups, Sugar: 1.5 cups, Salt: 1 teaspoon, Baking soda: 1.5 teaspoons, Cocoa powder: .5 cups, Eggs: 2, Vanilla: 2 teaspoons, Grated zucchini: 2 cups, Vegetable oil: .25 cups",
+        "Directions": "Preheat oven to 350 degrees. Stir flour, sugar, salt, cocoa, and baking soda together. Combine with remaining ingredients. Spread into greased 9x13 inch pan. Bake for 30 minutes."
+    },
+    {
+        "Title": "Insalata Verde",
+        "Photo": "https://infatuation.imgix.net/media/images/reviews/via-carota/TeddyWolff.ViaCarota.insalataverde.1.jpg",
+        "Source": "Via Carota, New York Times Magazine",
+        "Category": "Salad",
+        "Ingredients": "Butter lettuce: 2 heads, Romaine: 1 head, Belgian endive: 1, Watercress: 1 bunch, Frisee: .5 small head, Shallot: 1 large minced, Sherry vinegar: 2 tablespoons plus one teaspoon, Warm water: 1 tablespoon, Olive oil: 1 cup, Dijon mustard: 1.5 teaspoons, Whole-grain mustard: 1.5 teaspoons, Honey: 1.5 teaspoons, Thyme: 2 sprigs washed and stripped, Garlic: one clove minced, Salt, Pepper",
+        "Directions": "Trim roots and damaged leaves from greens, wash thoroughly 3x by swirling in cold water. Dry thoroughly. Place shallot in strainer, rince briefly with cold water, drain and put in bowl with vinegar nad warm water, let sit for 2 minutes. Add remaining ingredients. Serve salad by piling alternating layers of greens, salt/pepper, and dressing into a tall mound in a serving bowl."
+    }
+]
