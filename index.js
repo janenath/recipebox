@@ -28,7 +28,6 @@ const recipesController = require('./controllers/recipes.js');
 app.get('/recipebox', (req, res) => {
     Recipe.find({})
       .sort({ createdAt: -1 })
-      .limit(12)
       .then(recipes => {
         res.render('Index', { recipes });
       });
