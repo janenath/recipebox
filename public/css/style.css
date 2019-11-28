@@ -91,7 +91,9 @@ ul {
 }
 .recipe-list_item:hover {
     background: #DBB1BC;
-
+}
+.recipe-list_item:hover h2 {
+    color: white;
 }
 .Photo {
     border: 5px #49425B solid;
