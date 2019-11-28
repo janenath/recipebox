@@ -53,6 +53,9 @@ h2 {
     color: #DBB1BC;
     align-self: center;
 }
+h2:hover {
+    color: white;
+}
 .container {
     display: flex;
     justify-content: flex-start;
@@ -85,6 +88,10 @@ ul {
     background: white;
     border: 5px #49425B solid;
     border-radius: 25px;
+}
+.recipe-list_item:hover {
+    background: #DBB1BC;
+
 }
 .Photo {
     border: 5px #49425B solid;
